@@ -1,0 +1,6 @@
+books = {
+  "Harry Potter": "https://m.media-amazon.com/images/I/51Ppi-8kISL.jpg", 
+  "Eye of the World": "https://m.media-amazon.com/images/I/81gxI+tlqeL._AC_UF1000,1000_QL80_.jpg", 
+  "Lord of the Rings": "https://images.booksense.com/images/210/928/9780547928210.jpg", 
+  "Jade City": "https://m.media-amazon.com/images/I/81GwPUHuoKL._AC_UF1000,1000_QL80_.jpg"
+  }

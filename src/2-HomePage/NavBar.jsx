@@ -53,13 +53,13 @@ function NavigationBar() {
 					<Col xs="auto">
 						<Form.Control
 							type="text"
-							placeholder="Search"
+							placeholder="Title, Author, Genre"
 							className="mr-sm-2 nav-search-input fs-5 p-2"
 						/>
 					</Col>
 					<Col xs="auto">
 						<Button type="submit" className="nav-search-btn fs-5">
-							Submit
+							Search
 						</Button>
 					</Col>
 				</Row>
